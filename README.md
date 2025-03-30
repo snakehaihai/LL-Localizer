@@ -1,4 +1,4 @@
-# This work is under review of IROS2025.
+# This work is under review of TIM.
 ## Link to video.
 
 ## Link to paper.
