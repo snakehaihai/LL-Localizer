@@ -1,2 +1,4 @@
-# LL-Localizer
-LL-Localizer: A Life-Long Localization System based on Dynamic i-Octree
+# This work is under review of IROS2025.
+## Link to video.
+
+## Link to paper.
