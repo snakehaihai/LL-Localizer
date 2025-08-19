@@ -10,5 +10,5 @@
 
   <br><br>
 
-  <strong>This work is currently under review at <i>IEEE Transactions on Instrumentation and Measurement (TIM)</i>.</strong>
+  <strong>This work has been accpeted at <i>IEEE Transactions on Instrumentation and Measurement (TIM).  Program and docker comming soon. </i>.</strong>
 </div>
